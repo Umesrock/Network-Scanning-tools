@@ -1,8 +1,8 @@
 # Network-Scanning-tools
-Project Description
+# Project Description
 This project automates network scanning tools like Ping, ARP, and Nmap using Python. It helps in performing basic network reconnaissance tasks.
 
-Requirements
+# Requirements
 Python 3.6 or higher
 Nmap installed
 Works on Windows, Linux, and Mac
@@ -15,17 +15,17 @@ How to Run
 Ping Scanner
 python ping_scanner.py
 
-ARP Scanner
+# ARP Scanner
 python arp_scanner.py
 
-Nmap Scanner
+# Nmap Scanner
 python nmap_scanner.py
 
-Example Input
+# Example Input
 127.0.0.1
 
-Security Note
+# Security Note
 Only scan networks you own or have permission to scan. Unauthorized scanning is illegal.
 
-Conclusion
+# Conclusion
 This project demonstrates how Python can automate network scanning tools using subprocess module.
